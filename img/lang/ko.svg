@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27" height="27" viewBox="0 0 27 27">
+    <defs>
+        <style>
+            .cls-1{fill:#fff}.cls-2{fill:#b50037}.cls-3{fill:#1e3476}.cls-4{filter:url(#Rectangle_353)}
+        </style>
+        <filter id="Rectangle_353" width="27" height="27" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="2"/>
+            <feGaussianBlur result="blur" stdDeviation="1"/>
+            <feFlood flood-opacity=".078"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g id="Group_735" data-name="Group 735" transform="translate(-1518 -135)">
+        <g class="cls-4" transform="translate(1518 135)">
+            <rect id="Rectangle_353-2" width="21" height="21" class="cls-1" data-name="Rectangle 353" rx="10.5" transform="translate(3 1)"/>
+        </g>
+        <g id="OBJECTS" transform="translate(1486.69 85.192)">
+            <g id="Group_2" data-name="Group 2" transform="translate(38.31 56.308)">
+                <g id="Group_1" data-name="Group 1">
+                    <path id="Path_1" d="M301.077 196.615l.794 1.194-.433.29-.8-1.194z" data-name="Path 1" transform="translate(-291.111 -195.746)"/>
+                    <path id="Path_2" d="M316.737 220.133l.8 1.194-.435.287-.8-1.191z" data-name="Path 2" transform="translate(-305.836 -217.875)"/>
+                    <path id="Path_3" d="M311.92 189.372l1.735 2.6-.434.29-1.736-2.6z" data-name="Path 3" transform="translate(-301.307 -188.938)"/>
+                    <path id="Path_4" d="M322.763 182.13l.8 1.2-.435.287-.8-1.194z" data-name="Path 4" transform="translate(-311.5 -182.13)"/>
+                    <path id="Path_5" d="M338.444 205.689l.795 1.194-.433.29-.795-1.194z" data-name="Path 5" transform="translate(-326.241 -204.276)"/>
+                    <path id="Rectangle_2" d="M0 0h.522v3.128H0z" data-name="Rectangle 2" transform="rotate(-33.702 11.501 1.137)"/>
+                    <path id="Path_6" d="M152.808 295.474l.794 1.191-.433.29-.8-1.191z" data-name="Path 6" transform="translate(-151.723 -288.739)"/>
+                    <path id="Path_7" d="M168.479 318.992l.795 1.194-.433.29-.8-1.194z" data-name="Path 7" transform="translate(-166.454 -310.864)"/>
+                    <path id="Path_8" d="M141.954 302.717l1.734 2.6-.433.29-1.736-2.6z" data-name="Path 8" transform="translate(-141.52 -295.565)"/>
+                    <path id="Path_9" d="M163.217 199.22l1.735-2.6.434.29-1.735 2.6z" data-name="Path 9" transform="translate(-161.916 -195.746)"/>
+                    <path id="Path_10" d="M152.374 191.977l1.735-2.6.433.29-1.735 2.6z" data-name="Path 10" transform="translate(-151.723 -188.938)"/>
+                    <path id="Path_11" d="M141.52 184.737l1.736-2.607.433.29-1.734 2.607z" data-name="Path 11" transform="translate(-141.52 -182.13)"/>
+                    <path id="Path_12" d="M300.643 312.941l.8-1.191.433.29-.794 1.191z" data-name="Path 12" transform="translate(-291.111 -304.055)"/>
+                    <path id="Path_13" d="M316.3 289.428l.8-1.2.435.29-.8 1.194z" data-name="Path 13" transform="translate(-305.836 -281.927)"/>
+                    <path id="Path_14" d="M311.485 320.186l.8-1.194.435.29-.795 1.194z" data-name="Path 14" transform="translate(-301.307 -310.864)"/>
+                    <path id="Path_15" d="M327.157 296.665l.8-1.191.434.29-.8 1.191z" data-name="Path 15" transform="translate(-316.038 -288.739)"/>
+                    <path id="Path_16" d="M322.329 327.426l.8-1.191.435.287-.8 1.194z" data-name="Path 16" transform="translate(-311.5 -317.672)"/>
+                    <path id="Path_17" d="M338.011 303.911l.795-1.194.433.29-.795 1.191z" data-name="Path 17" transform="translate(-326.241 -295.565)"/>
+                    <path id="Path_18" d="M206.831 214.9a3.131 3.131 0 0 0-4.339.869 1.564 1.564 0 1 0 2.6 1.736 1.564 1.564 0 1 1 2.6 1.735 3.13 3.13 0 0 0-.866-4.34" class="cls-2" data-name="Path 18" transform="translate(-198.595 -212.473)"/>
+                    <path id="Path_19" d="M198.379 237.615a1.564 1.564 0 1 0 2.6 1.736 1.564 1.564 0 1 1 2.6 1.735 3.128 3.128 0 1 1-5.205-3.471" class="cls-3" data-name="Path 19" transform="translate(-194.482 -234.338)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27" height="27" viewBox="0 0 27 27">
+    <defs>
+        <style>
+            .cls-1{fill:#fff}.cls-2{fill:#ed5565}.cls-3{filter:url(#circle)}
+        </style>
+        <filter id="circle" width="27" height="27" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="2"/>
+            <feGaussianBlur result="blur" stdDeviation="1"/>
+            <feFlood flood-opacity=".078"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g id="JP_japan" transform="translate(-1397 -655.1)">
+        <g class="cls-3" transform="translate(1397 655.1)">
+            <circle id="circle-2" cx="10.5" cy="10.5" r="10.5" class="cls-1" data-name="circle" transform="translate(3 1)"/>
+        </g>
+        <circle id="ellipse" cx="3.5" cy="3.5" r="3.5" class="cls-2" transform="translate(1407 663.1)"/>
+    </g>
+</svg>

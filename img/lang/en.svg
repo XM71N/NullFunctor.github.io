@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="27" height="27" viewBox="0 0 27 27">
+  <defs>
+    <filter id="circle" x="0" y="0" width="27" height="27" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <circle id="circle-2" data-name="circle" cx="10.5" cy="10.5" r="10.5" transform="translate(0 0.242)" fill="#4758a9"/>
+    </clipPath>
+  </defs>
+  <g id="UK_unitedKingdom" transform="translate(-1149 -1399.242)">
+    <g id="circle-3" data-name="circle" transform="translate(1152 1400)">
+      <g transform="matrix(1, 0, 0, 1, -3, -0.76)" filter="url(#circle)">
+        <circle id="circle-4" data-name="circle" cx="10.5" cy="10.5" r="10.5" transform="translate(3 1)" fill="#4758a9"/>
+      </g>
+      <g id="Clip" transform="translate(0 0)" clip-path="url(#clip-path)">
+        <path id="stroke" d="M1146.226,1420.015l1.438-2.088,20.539,14.62-1.438,2.088Z" transform="translate(-1146.956 -1415.66)" fill="#fff"/>
+        <path id="stroke-2" data-name="stroke" d="M1148.122,1422.071l.959-1.392,20.539,14.62-.959,1.392Z" transform="translate(-1148.612 -1418.064)" fill="#ed5565"/>
+        <path id="stroke-3" data-name="stroke" d="M1166.116,1421.266l-1.448-2.1-20.677,14.718,1.448,2.1Z" transform="translate(-1145.004 -1416.741)" fill="#fff"/>
+        <path id="stroke-4" data-name="stroke" d="M1167.542,1423.336l-.965-1.4-20.677,14.718.965,1.4Z" transform="translate(-1146.672 -1419.162)" fill="#ed5565"/>
+        <rect id="stroke-5" data-name="stroke" width="21.243" height="5.073" transform="translate(0.001 8.084)" fill="#fff"/>
+        <rect id="stroke-6" data-name="stroke" width="5.073" height="21.242" transform="translate(8.086)" fill="#fff"/>
+        <rect id="stroke-7" data-name="stroke" width="21.243" height="3.059" transform="translate(0.001 9.091)" fill="#ed5565"/>
+        <rect id="stroke-8" data-name="stroke" width="3.059" height="21.242" transform="translate(9.093)" fill="#ed5565"/>
+      </g>
+    </g>
+  </g>
+</svg>

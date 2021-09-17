@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+    <defs>
+        <style>
+            .cls-1{fill:#f6bb42}.cls-1,.cls-3{stroke:rgba(0,0,0,0);stroke-miterlimit:10}.cls-2{clip-path:url(#clip-path)}.cls-3{fill:#ed5565}.cls-4{filter:url(#circle)}
+        </style>
+        <filter id="circle" width="28" height="28" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="2"/>
+            <feGaussianBlur result="blur" stdDeviation="1"/>
+            <feFlood flood-opacity=".078"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <clipPath id="clip-path">
+            <circle id="circle-2" cx="10.5" cy="10.5" r="10.5" class="cls-1" data-name="circle" transform="translate(0 .133)"/>
+        </clipPath>
+    </defs>
+    <g id="ES_spain" transform="translate(-1644.5 -1150.633)">
+        <g id="circle-3" data-name="circle" transform="translate(1648 1152)">
+            <g class="cls-4" transform="translate(-3.5 -1.37)">
+                <circle id="circle-4" cx="10.5" cy="10.5" r="10.5" class="cls-1" data-name="circle" transform="translate(3.5 1.5)"/>
+            </g>
+            <g id="Clip" class="cls-2">
+                <path id="rectangle" d="M0 0h21v6H0z" class="cls-3" transform="translate(0 .133)"/>
+                <path id="rectangle-2" d="M0 0h21v7H0z" class="cls-3" data-name="rectangle" transform="translate(0 14.133)"/>
+            </g>
+        </g>
+        <path id="shield" d="M0 3V0h4v3a2 2 0 0 1-4 0z" class="cls-3" transform="translate(1653 1160.133)"/>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="9.5" height="5.749" viewBox="0 0 9.5 5.749">
+    <defs>
+        <style>
+            .cls-1,.cls-3{fill:#fff}.cls-2{clip-path:url(#clip-path)}.cls-3{stroke:#fff;stroke-width:.5px}
+        </style>
+        <clipPath id="clip-path">
+            <path id="Path_390" d="M9.91-5.077l-.451-.451a.285.285 0 0 0-.208-.09.285.285 0 0 0-.207.09L5.5-1.984 1.956-5.528a.285.285 0 0 0-.207-.09.285.285 0 0 0-.207.09l-.451.451A.285.285 0 0 0 1-4.869a.285.285 0 0 0 .09.207l4.2 4.2a.285.285 0 0 0 .207.09.285.285 0 0 0 .207-.09l4.2-4.2A.285.285 0 0 0 10-4.869a.285.285 0 0 0-.09-.208z" class="cls-1" data-name="Path 390"/>
+        </clipPath>
+    </defs>
+    <g id="Group_698" data-name="Group 698" transform="translate(-.75 5.868)">
+        <g id="Group_696" class="cls-2" data-name="Group 696">
+            <path id="Path_389" d="M-4-10.618h19V4.631H-4z" data-name="Path 389"/>
+        </g>
+        <g id="Group_697" data-name="Group 697" transform="translate(1 -5.618)">
+            <path id="Path_391" d="M8.91.541L8.459.09a.284.284 0 0 0-.415 0L4.5 3.634.956.09a.284.284 0 0 0-.415 0L.09.541a.284.284 0 0 0 0 .415l4.2 4.2a.284.284 0 0 0 .415 0l4.2-4.2a.284.284 0 0 0 0-.415z" class="cls-3" data-name="Path 391"/>
+        </g>
+    </g>
+</svg>

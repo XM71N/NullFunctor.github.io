@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27" height="27" viewBox="0 0 27 27">
+    <defs>
+        <style>
+            .cls-1{fill:#ed5565}.cls-2{fill:#ffce54}.cls-3{filter:url(#circle)}
+        </style>
+        <filter id="circle" width="27" height="27" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="2"/>
+            <feGaussianBlur result="blur" stdDeviation="1"/>
+            <feFlood flood-opacity=".078"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g id="VN_vietnam" transform="translate(-1645 -1399.399)">
+        <g class="cls-3" transform="translate(1645 1399.4)">
+            <circle id="circle-2" cx="10.5" cy="10.5" r="10.5" class="cls-1" data-name="circle" transform="translate(3 1)"/>
+        </g>
+        <path id="star" d="M1699.125 1448.2l.939 2.874a.3.3 0 0 0 .283.2h3.037a.3.3 0 0 1 .174.535l-2.456 1.767a.294.294 0 0 0-.108.331l.939 2.868a.3.3 0 0 1-.457.33l-2.459-1.777a.3.3 0 0 0-.349 0l-2.459 1.775a.3.3 0 0 1-.457-.33l.938-2.865a.294.294 0 0 0-.108-.331l-2.456-1.767a.3.3 0 0 1 .174-.535h3.038a.3.3 0 0 0 .283-.2l.94-2.874a.3.3 0 0 1 .564-.001z" class="cls-2" transform="translate(-40.143 -41.886)"/>
+    </g>
+</svg>
